@@ -1,4 +1,4 @@
-# my-project
+# authentication-project
 
 ## Project setup
 ```
